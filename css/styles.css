@@ -528,7 +528,8 @@ input[type='checkbox'] {
 
 .header .h1-large {
 	margin-bottom: 1.75rem;
-	color: #ffffff;
+	color: #ffffff
+	font-size: 15px;
 }
 
 .header .btn-solid-lg:hover {
